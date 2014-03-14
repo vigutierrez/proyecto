@@ -1,4 +1,4 @@
 proyecto
 ========
 
-Aquí subiré todo lo que vaya haciendo del proyecto
+Aquí subiré todo lo que vaya haciendo del proyecto.
